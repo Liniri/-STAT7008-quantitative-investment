@@ -1,0 +1,9 @@
+Strategy,Total_Return_%,Ann_Return_%,Sharpe_Ratio,Max_Drawdown_%,Win_Rate_%,Horizon
+Benchmark_SPY,62.84,20.17,1.11,-17.13,60.87,Weekly (5D)
+Strat_Reversal,56.26,18.32,0.77,-30.52,55.07,Weekly (5D)
+Strat_Momentum,152.1,41.68,1.65,-14.73,61.59,Weekly (5D)
+Strat_Concentration,66.77,21.25,0.92,-22.82,57.25,Weekly (5D)
+Benchmark_SPY,61.15,18.34,1.08,-12.43,70.59,Monthly (20D)
+Strat_Reversal,72.52,21.22,0.88,-14.58,70.59,Monthly (20D)
+Strat_Momentum,107.68,29.43,1.34,-20.34,64.71,Monthly (20D)
+Strat_Concentration,109.09,29.74,1.97,-4.73,76.47,Monthly (20D)

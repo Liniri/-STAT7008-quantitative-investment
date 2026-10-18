@@ -1,0 +1,7 @@
+Strategy,Total_Return_%,Ann_Return_%,Win_Rate_%,Sharpe_Ratio,Max_Drawdown_%,Horizon
+Benchmark_SPY,25.44,5.03,58.75,0.22,-12.52,Daily (1D Weekend)
+Active_Tail_Accumulation,66.7,11.71,55.0,0.53,-20.18,Daily (1D Weekend)
+Benchmark_SPY,62.84,20.17,60.87,1.11,-17.13,Weekly (5D)
+Active_Momentum_Strategy,179.14,47.23,59.42,0.97,-42.93,Weekly (5D)
+Benchmark_SPY,61.15,18.34,70.59,1.08,-12.43,Monthly (20D)
+Active_Momentum_Strategy,100.9,27.92,64.71,0.59,-54.1,Monthly (20D)

@@ -1,0 +1,39 @@
+Ticker,Company_Name,Health_Score,Rating,ROE_%,Op_Margin_%,Debt_to_Equity,FCF_Yield_%,Rev_Growth_%,P/E
+AAPL,Apple Inc.,100.0,Tier 1: Excellent (高质量强劲),148.75,32.62,0.78,2.19,16.4,38.61
+GE,GE Aerospace,100.0,Tier 1: Excellent (高质量强劲),48.23,20.57,1.13,2.06,21.1,36.34
+LLY,Eli Lilly and Company,100.0,Tier 1: Excellent (高质量强劲),102.29,54.22,1.62,1.05,47.7,39.59
+ISRG,"Intuitive Surgical, Inc.",100.0,Tier 1: Excellent (高质量强劲),17.42,33.6,,1.75,18.5,47.64
+MSFT,Microsoft Corporation,100.0,Tier 1: Excellent (高质量强劲),34.04,45.11,0.29,0.42,17.7,29.11
+CVX,Chevron Corporation,100.0,Tier 1: Excellent (高质量强劲),12.23,21.87,0.19,5.27,53.5,20.4
+ETN,"Eaton Corporation, PLC",100.0,Tier 1: Excellent (高质量强劲),19.68,16.56,1.05,1.86,21.4,43.71
+URI,"United Rentals, Inc.",100.0,Tier 1: Excellent (高质量强劲),28.89,25.99,1.67,2.6,11.8,25.4
+VRTX,Vertex Pharmaceuticals Incorpor,100.0,Tier 1: Excellent (高质量强劲),23.54,38.05,0.1,2.03,12.5,29.71
+HON,Honeywell International Inc.,100.0,Tier 1: Excellent (高质量强劲),46.58,20.25,1.85,3.96,4.3,7.67
+BLK,"BlackRock, Inc.",100.0,Tier 1: Excellent (高质量强劲),12.28,35.08,0.23,4.31,30.6,25.91
+COST,Costco Wholesale Corporation,100.0,Tier 1: Excellent (高质量强劲),28.4,3.79,0.28,1.61,11.1,45.61
+CAT,"Caterpillar, Inc.",100.0,Tier 1: Excellent (高质量强劲),56.97,22.18,2.33,1.37,24.0,34.46
+AVGO,Broadcom Inc.,100.0,Tier 1: Excellent (高质量强劲),44.25,54.31,0.6,1.77,85.5,46.17
+META,"Meta Platforms, Inc.",100.0,Tier 1: Excellent (高质量强劲),29.85,34.83,0.43,1.18,28.0,27.08
+NVDA,NVIDIA Corporation,100.0,Tier 1: Excellent (高质量强劲),117.21,66.24,0.17,0.76,105.9,28.99
+AMZN,"Amazon.com, Inc.",100.0,Tier 1: Excellent (高质量强劲),30.56,13.69,0.46,0.11,19.6,21.11
+GOOGL,Alphabet Inc.,100.0,Tier 1: Excellent (高质量强劲),48.68,34.03,0.19,0.53,24.2,17.64
+V,Visa Inc.,100.0,Tier 1: Excellent (高质量强劲),61.19,66.13,0.68,2.82,14.4,32.8
+TGT,Target Corporation,95.0,Tier 1: Excellent (高质量强劲),26.41,6.04,1.08,4.92,5.3,15.95
+AMD,"Advanced Micro Devices, Inc.",95.0,Tier 1: Excellent (高质量强劲),10.2,17.25,0.06,0.89,50.1,155.13
+NKE,"Nike, Inc.",95.0,Tier 1: Excellent (高质量强劲),21.56,7.92,0.73,3.43,-4.3,16.69
+XOM,ExxonMobil Holdings Corporation,95.0,Tier 1: Excellent (高质量强劲),12.58,15.86,0.16,2.98,44.1,21.74
+UNH,UnitedHealth Group Incorporated,90.0,Tier 1: Excellent (高质量强劲),14.15,7.13,0.69,7.13,0.4,24.39
+SLB,SLB Limited,90.0,Tier 1: Excellent (高质量强劲),12.91,12.71,0.47,4.07,5.0,23.65
+MA,Mastercard Incorporated,90.0,Tier 1: Excellent (高质量强劲),241.2,61.11,4.4,3.29,14.1,31.61
+DE,Deere & Company,90.0,Tier 1: Excellent (高质量强劲),18.24,13.37,2.3,2.7,4.9,34.52
+TSLA,"Tesla, Inc.",85.0,Tier 1: Excellent (高质量强劲),4.67,1.41,0.18,0.32,25.5,354.35
+COIN,"Coinbase Global, Inc.",80.0,Tier 1: Excellent (高质量强劲),-7.85,-13.92,0.51,5.64,-17.3,
+MRK,"Merck & Company, Inc.",80.0,Tier 1: Excellent (高质量强劲),6.96,-0.24,1.28,4.22,5.1,115.56
+BA,Boeing Company (The),80.0,Tier 1: Excellent (高质量强劲),173.54,0.0,7.91,3.74,8.0,67.99
+HD,"Home Depot, Inc. (The)",80.0,Tier 1: Excellent (高质量强劲),104.3,12.86,3.8,3.71,5.7,20.35
+AXP,American Express Company,65.0,Tier 2: Moderate (良好稳健),34.38,20.32,1.72,,12.8,18.7
+JPM,JP Morgan Chase & Co.,65.0,Tier 2: Moderate (良好稳健),17.79,50.39,,,30.4,14.27
+SBUX,Starbucks Corporation,65.0,Tier 2: Moderate (良好稳健),,12.92,,2.96,-1.4,52.46
+MS,Morgan Stanley,50.0,Tier 3: Weak / Warning (较弱需警惕),17.97,41.57,5.17,,28.0,15.35
+GS,"Goldman Sachs Group, Inc. (The)",50.0,Tier 3: Weak / Warning (较弱需警惕),16.9,42.18,7.25,,42.5,13.83
+ORCL,Oracle Corporation,50.0,Tier 3: Weak / Warning (较弱需警惕),41.19,35.63,2.52,-10.7,29.6,22.16
